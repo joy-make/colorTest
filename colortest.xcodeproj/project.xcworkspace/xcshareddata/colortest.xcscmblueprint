@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3036B829F7A5835FB80D4D87ACDCA8E5C056BF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3036B829F7A5835FB80D4D87ACDCA8E5C056BF4" : 9223372036854775807,
+    "A3BDC18C53C9CCA49978CB328A239B69A2D0A90C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4CB9A052-2D7D-4CDF-869F-6D2E4BA2EC7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3036B829F7A5835FB80D4D87ACDCA8E5C056BF4" : "colortest\/",
+    "A3BDC18C53C9CCA49978CB328A239B69A2D0A90C" : "colorTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "colortest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "colortest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joy-make\/colorTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3036B829F7A5835FB80D4D87ACDCA8E5C056BF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joy-make\/colorTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3BDC18C53C9CCA49978CB328A239B69A2D0A90C"
+    }
+  ]
+}
